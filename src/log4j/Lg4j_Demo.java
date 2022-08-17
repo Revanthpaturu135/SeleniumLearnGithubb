@@ -28,7 +28,7 @@ public class Lg4j_Demo {
 		
 		log.info("Launch Google URL in Browser");
 		
-		Thread.sleep(5000);
+		Thread.sleep(4000);
 		driver.manage().window().maximize();
 		
 		driver.findElement(By.name("q")).sendKeys("log4j Tutotial");
