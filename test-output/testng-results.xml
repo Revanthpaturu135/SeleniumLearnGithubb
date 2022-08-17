@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-12T01:16:32 PDT" name="Default suite" finished-at="2022-08-12T01:16:59 PDT" duration-ms="26764">
+    <groups>
+    </groups>
+    <test started-at="2022-08-12T01:16:32 PDT" name="Default test" finished-at="2022-08-12T01:16:59 PDT" duration-ms="26764">
+      <class name="assertions.Assertions_Demo">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:assertions.Assertions_Demo@31fa1761]" started-at="2022-08-12T01:16:32 PDT" name="beforeTest" finished-at="2022-08-12T01:16:48 PDT" duration-ms="15340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyCurrentURL()[pri:0, instance:assertions.Assertions_Demo@31fa1761]" started-at="2022-08-12T01:16:48 PDT" name="verifyCurrentURL" finished-at="2022-08-12T01:16:59 PDT" duration-ms="11257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCurrentURL -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:assertions.Assertions_Demo@31fa1761]" started-at="2022-08-12T01:16:59 PDT" name="afterTest" finished-at="2022-08-12T01:16:59 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- assertions.Assertions_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
